@@ -22,3 +22,4 @@
 (require 'init-helm)
 (require 'init-ido)
 (require 'init-magit)
+(require 'init-multiple-cursors)
