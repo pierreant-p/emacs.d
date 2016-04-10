@@ -14,8 +14,8 @@
 (require 'init-packages)
 (require 'init-ui)
 (require 'init-theme)
+(require 'init-bindings)
 
 ;;----------------------------------------------------------
 ;; Load modules config
 ;;----------------------------------------------------------
-(require 'init-ui)
