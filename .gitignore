@@ -2,3 +2,4 @@
 .DS_Store
 auto-save-list
 elpa
+*.last
