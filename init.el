@@ -23,3 +23,4 @@
 (require 'init-ido)
 (require 'init-magit)
 (require 'init-multiple-cursors)
+(require 'init-buffer-move)
