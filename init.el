@@ -21,6 +21,7 @@
 ;;----------------------------------------------------------
 (require 'init-buffer-move)
 (require 'init-dockerfile)
+(require 'init-git-gutter)
 (require 'init-helm)
 (require 'init-ido)
 (require 'init-magit)
