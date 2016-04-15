@@ -19,9 +19,10 @@
 ;;----------------------------------------------------------
 ;; Load modules config
 ;;----------------------------------------------------------
+(require 'init-buffer-move)
 (require 'init-dockerfile)
 (require 'init-helm)
 (require 'init-ido)
 (require 'init-magit)
 (require 'init-multiple-cursors)
-(require 'init-buffer-move)
+(require 'init-powerline)
