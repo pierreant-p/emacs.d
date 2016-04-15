@@ -1,3 +1,5 @@
+;; powerline
+
 (require 'powerline)
 
 (powerline-center-theme)
