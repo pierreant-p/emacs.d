@@ -19,6 +19,7 @@
 ;;----------------------------------------------------------
 ;; Load modules config
 ;;----------------------------------------------------------
+(require 'init-dockerfile)
 (require 'init-helm)
 (require 'init-ido)
 (require 'init-magit)
