@@ -40,5 +40,6 @@
 (require 'init-powerline)
 (require 'init-org)
 (require 'init-rainbow)
+(require 'init-web-beautify)
 
 ;;; init.el ends here
