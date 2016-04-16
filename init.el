@@ -23,6 +23,7 @@
 (require 'init-dockerfile)
 (require 'init-git-gutter)
 (require 'init-helm)
+(require 'init-helm-git-grep)
 (require 'init-ido)
 (require 'init-magit)
 (require 'init-multiple-cursors)
