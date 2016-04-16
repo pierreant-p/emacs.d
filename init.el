@@ -38,6 +38,7 @@
 (require 'init-magit)
 (require 'init-multiple-cursors)
 (require 'init-powerline)
+(require 'init-python)
 (require 'init-org)
 (require 'init-rainbow)
 (require 'init-web-beautify)
