@@ -5,3 +5,4 @@ elpa
 *.last
 tramp
 .mc-lists.el
+ac-comphist.dat
