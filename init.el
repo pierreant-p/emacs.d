@@ -23,6 +23,7 @@
 ;;----------------------------------------------------------
 (require 'init-buffer-move)
 (require 'init-dockerfile)
+(require 'init-ethan-wspace)
 (require 'init-git-gutter)
 (require 'init-helm)
 (require 'init-helm-git-grep)
