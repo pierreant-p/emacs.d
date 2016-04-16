@@ -26,6 +26,7 @@
 ;;----------------------------------------------------------
 ;; Load modules config
 ;;----------------------------------------------------------
+(require 'init-ansible)
 (require 'init-auto-complete)
 (require 'init-buffer-move)
 (require 'init-dockerfile)
