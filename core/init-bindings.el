@@ -26,5 +26,11 @@
 (global-set-key "\M-]" 'goto-next-locus)
 
 
+;;----------------------------------------------------------
+;; Misc
+;;----------------------------------------------------------
+;; Alias yes to y and no to n
+(defalias 'yes-or-no-p 'y-or-n-p)
+
 (provide 'init-bindings)
 ;;; init-bindings.el ends here
