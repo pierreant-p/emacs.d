@@ -19,6 +19,9 @@
 ;; Highlight current line
 (global-hl-line-mode 1)
 
+;; Enable syntax highlighting
+(global-font-lock-mode 1)
+
 ;;----------------------------------------------------------
 ;; Layout
 ;;----------------------------------------------------------
