@@ -1,4 +1,4 @@
-;;; init-buffer-mode --- Configures buffer-move
+;;; init-buffer-move --- Configures buffer-move
 ;;
 ;;; Commentary:
 ;; Configures buffer-move
