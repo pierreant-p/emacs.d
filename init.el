@@ -32,6 +32,7 @@
 (require 'init-ethan-wspace)
 (require 'init-flycheck)
 (require 'init-git-gutter)
+(require 'init-jinja2)
 (require 'init-js2)
 (require 'init-helm)
 (require 'init-helm-git-grep)
