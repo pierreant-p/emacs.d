@@ -27,6 +27,7 @@
 (require 'init-dockerfile)
 (require 'init-ethan-wspace)
 (require 'init-git-gutter)
+(require 'init-js2)
 (require 'init-helm)
 (require 'init-helm-git-grep)
 (require 'init-ido)
