@@ -22,6 +22,9 @@
 ;; Enable syntax highlighting
 (global-font-lock-mode 1)
 
+;; Show matching parenthesis
+(show-paren-mode t)
+
 ;;----------------------------------------------------------
 ;; Layout
 ;;----------------------------------------------------------
