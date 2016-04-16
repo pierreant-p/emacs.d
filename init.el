@@ -17,6 +17,7 @@
 (require 'init-backup)
 (require 'init-bindings)
 (require 'init-indent)
+(require 'init-shell)
 (require 'init-tramp)
 
 ;;----------------------------------------------------------
