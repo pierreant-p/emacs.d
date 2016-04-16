@@ -14,8 +14,9 @@
 (require 'init-packages)
 (require 'init-ui)
 (require 'init-theme)
-(require 'init-bindings)
 (require 'init-backup)
+(require 'init-bindings)
+(require 'init-indent)
 
 ;;----------------------------------------------------------
 ;; Load modules config
