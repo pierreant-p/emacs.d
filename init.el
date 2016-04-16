@@ -28,6 +28,7 @@
 ;;----------------------------------------------------------
 (require 'init-ansible)
 (require 'init-auto-complete)
+(require 'init-autopair)
 (require 'init-buffer-move)
 (require 'init-dockerfile)
 (require 'init-ethan-wspace)
