@@ -1,6 +1,9 @@
-;; Key bindings
+;;; init-bindings --- Sets up global key bindings
+;;
+;;; Commentary:
+;; Sets up and configure key bindings
 
-
+;;; Code:
 ;;----------------------------------------------------------
 ;; Mac modifiers
 ;;----------------------------------------------------------
@@ -24,3 +27,4 @@
 
 
 (provide 'init-bindings)
+;;; init-bindings.el ends here

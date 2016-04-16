@@ -1,5 +1,9 @@
-;; buffer-move
+;;; init-buffer-mode --- Configures buffer-move
 ;;
+;;; Commentary:
+;; Configures buffer-move
+
+;;; Code:
 ;; Move buffers left and right
 (require 'buffer-move)
 
@@ -8,3 +12,4 @@
 (setq buffer-move-behavior 'move)
 
 (provide 'init-buffer-move)
+;;; init-buffer-move.el ends here

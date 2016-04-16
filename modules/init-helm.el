@@ -1,5 +1,9 @@
-;; Helm
+;;; init-helm.el --- Configures helm
+;;
+;;; Commentary:
+;; Configures helm
 
+;;; Code:
 (require 'helm)
 
 (helm-mode 1)
@@ -11,3 +15,4 @@
 (global-set-key (kbd "M-x") 'helm-M-x)
 
 (provide 'init-helm)
+;;; init-helm.el ends here

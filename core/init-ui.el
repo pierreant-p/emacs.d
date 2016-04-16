@@ -1,6 +1,9 @@
-;; UI config
+;;; ui  --- Configs the UI
+;;
+;;; Commentary:
+;; Simple ui config
 
-
+;;; Code:
 ;;----------------------------------------------------------
 ;; General
 ;;----------------------------------------------------------
@@ -40,5 +43,5 @@
   (set-face-attribute 'default nil :font "Source Code Pro" :height 120)
   (set-face-font 'default "Source Code Pro"))
 
-
 (provide 'init-ui)
+;;; init-ui.el ends here

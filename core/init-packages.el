@@ -1,6 +1,9 @@
-;; Packages
+;;; Packages  --- Define packages config
+;;
+;;; Commentary:
+;; Simple packages config
 
-
+;;; Code:
 (require 'package)
 (add-to-list 'package-archives
              '("melpa" . "https://melpa.org/packages/") t)
@@ -8,3 +11,4 @@
 (package-initialize)
 
 (provide 'init-packages)
+;;; init-packages.el ends here

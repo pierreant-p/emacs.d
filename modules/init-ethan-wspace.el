@@ -1,5 +1,9 @@
-;; ethan-wspace
+;;; init-ethan-wspace.el --- Configures ethan-wspace
+;;
+;;; Commentary:
+;; Configures ethan-wspace
 
+;;; Code:
 (require 'ethan-wspace)
 
 ;; ethan-wspace supersedes `require-final-newline', so
@@ -11,3 +15,4 @@
 (ethan-wspace-highlight-eol-mode)
 
 (provide 'init-ethan-wspace)
+;;; init-ethan-wspace.el ends here
