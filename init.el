@@ -26,6 +26,7 @@
 (require 'init-buffer-move)
 (require 'init-dockerfile)
 (require 'init-ethan-wspace)
+(require 'init-flycheck)
 (require 'init-git-gutter)
 (require 'init-js2)
 (require 'init-helm)
