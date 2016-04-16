@@ -15,6 +15,7 @@
 (require 'init-ui)
 (require 'init-theme)
 (require 'init-bindings)
+(require 'init-backup)
 
 ;;----------------------------------------------------------
 ;; Load modules config
