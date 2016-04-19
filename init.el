@@ -45,6 +45,7 @@
 (require 'init-python)
 (require 'init-org)
 (require 'init-rainbow)
+(require 'init-yaml)
 (require 'init-web-beautify)
 
 ;;; init.el ends here
