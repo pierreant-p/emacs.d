@@ -6,7 +6,7 @@
 ;;; Code:
 (require 'autopair)
 
-(autopair-global-mode)
+(add-hook 'prog-mode-hook 'autopair-mode)
 
 (provide 'init-autopair)
 ;;; init-autopair.el ends here
