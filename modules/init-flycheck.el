@@ -13,7 +13,8 @@
 (set-face-attribute 'flycheck-fringe-warning nil :foreground "gold")
 (set-face-attribute 'flycheck-warning nil :box '(:line-width 2 :color "gold"))
 
-(add-hook 'after-init-hook #'global-flycheck-mode)
+'(flycheck-jshintrc "~/dev/sketchfab/showwebgl/.jshintrc")
+'(flycheck-flake8rc '"~/dev/sketchfab/showwebgl/tox.ini")
 
 (provide 'init-flycheck)
 ;;; init-flycheck.el ends here
