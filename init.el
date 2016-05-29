@@ -49,5 +49,6 @@
 (require 'init-restclient)
 (require 'init-yaml)
 (require 'init-web-beautify)
+(require 'init-groovy)
 
 ;;; init.el ends here
