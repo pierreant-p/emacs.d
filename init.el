@@ -41,6 +41,7 @@
 (require 'init-ido)
 (require 'init-jinja2)
 (require 'init-js2)
+(require 'init-json-mode)
 (require 'init-magit)
 (require 'init-multiple-cursors)
 (require 'init-org)
