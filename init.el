@@ -49,6 +49,7 @@
 (require 'init-python)
 (require 'init-rainbow)
 (require 'init-restclient)
+(require 'init-scala)
 (require 'init-web-beautify)
 (require 'init-yaml)
 
