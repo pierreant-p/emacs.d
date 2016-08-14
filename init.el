@@ -30,6 +30,7 @@
 (require 'init-auto-complete)
 (require 'init-autopair)
 (require 'init-buffer-move)
+(require 'init-dumb-jump)
 (require 'init-dockerfile)
 (require 'init-ethan-wspace)
 (require 'init-flycheck)
