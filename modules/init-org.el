@@ -8,6 +8,10 @@
 
 (setq org-default-notes-file "~/Documents/org/pa.org")
 
+;; fold and indent nicely
+(setq org-startup-folded (quote overview))
+(setq org-startup-indented t)
+
 ;; wrap-lines in org mode
 (setq org-startup-truncated nil)
 
